@@ -1,5 +1,5 @@
 # 基础镜像（以python为例）
-FROM python:3.9-slim
+FROM python:3.9-slim-bullseye
 
 # 设置工作目录
 WORKDIR /opt
